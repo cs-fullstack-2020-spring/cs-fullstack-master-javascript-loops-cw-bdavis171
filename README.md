@@ -1,5 +1,6 @@
 # JavaScript Loops Classwork
-
+#### Great work! Lots of interesting approaches. Check out my comments in your JS file
+#### Score : 5/5
 ## For Loops
 
 ### Exercise 1:
